@@ -12,11 +12,11 @@ This project is one of the projects that has been listed under **[Google Summer 
 To cover basic image processing operations.
 
 #### Required Knowledge: 
-Java
-JavaFX
-OpenCV
+- Java
+- JavaFX
+- OpenCV
 
-Mentors: Oshan Mudannayake
+#### Mentors: Oshan Mudannayake
 
 ## Project Milestones 
 
